@@ -13,7 +13,7 @@ This project orchestrates a team of specialized AI agents working sequentially t
 
 ## 🛠️ Technology Stack
 * **Framework:** [CrewAI](https://www.crewai.com/)
-* **LLM Provider:** Google Gemini (`gemini-1.5-flash`)
+* **LLM Provider:** Google Gemini
 * **Vector Database:** ChromaDB (via `embedchain`)
 * **Tools:** `PDFSearchTool` (RAG), `DuckDuckGoSearchRun` (Web Search)
 * **Language:** Python 3.12+
