@@ -1,0 +1,15 @@
+# Security
+.env
+
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# PDF and Output Files (Optional, but good practice so you don't upload personal lectures)
+*.pdf
+lecture_notes.md
+practice_exam.md
